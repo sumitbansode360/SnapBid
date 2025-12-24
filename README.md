@@ -4,13 +4,15 @@
 
 To make evaluation easier, test credentials are provided below.
 
-### 👤 User Account
+### 👤 Demo User Account 1(bidder)
 - **Username:** testuser1
 - **Password:** test@123
 
+### 👤 Demo User Account 2(bidder)
 - **Username:** testuser2
 - **Password:** test@123
 
+### 👤 Demo User Account 3(owner)
 - **Username:** testuser3
 - **Password:** test@123
 
