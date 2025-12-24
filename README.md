@@ -1,5 +1,19 @@
 # 🔥 SnapBid – Real-Time Live Auction Platform
 
+## 🔑 Demo Login Credentials
+
+To make evaluation easier, test credentials are provided below.
+
+### 👤 User Account
+- **Username:** testuser1
+- **Password:** test@123
+
+- **Username:** testuser2
+- **Password:** test@123
+
+- **Username:** testuser3
+- **Password:** test@123
+
 SnapBid is a real-time live auction web application built using Django and WebSockets. The platform enables users to participate in seamless live bidding with instant updates, auction timers, and real-time notifications, ensuring a smooth and engaging auction experience.
 
 This project focuses on **real-time systems**, **event-driven architecture**, and **accurate bidding logic**, demonstrating practical backend and WebSocket implementation.
